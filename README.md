@@ -1,21 +1,20 @@
-🕒 Modern Stopwatch Web Application
+# ⏱ Modern Stopwatch
 
-This is a modern stopwatch web app built using HTML, CSS, and JavaScript.
+A sleek, modern stopwatch built with **HTML, CSS, and JavaScript**.  
+Features a glassmorphism UI, dark/light mode, and lap tracking — making it visually appealing and easy to use.
 
-✅ Features
+---
 
-Start / Pause the stopwatch
-Reset the time
-Record lap times
-Responsive design
-Stylish UI with modern look
-📁 Files
+## 🚀 Features
+- ✅ **Start / Pause / Reset** functionality  
+- ✅ **Lap Recording** with numbered history  
+- ✅ **Glassmorphism UI** for a premium look  
+- ✅ **Dark / Light Mode Toggle**  
+- ✅ Fully **responsive** design (works on mobile too)
 
-index.html – Main structure of the app
-style.css – Styling and layout
-script.js – Stopwatch logic and lap handling
-🚀 How to Run
+---
 
-Download or clone this project
-Open index.html in your browser
-Click Start to begin, Lap to record a lap, and Reset to clear everything
+## 🛠️ How to Run
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/juhinatanaz/SCT_WD_2.git
